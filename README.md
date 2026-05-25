@@ -22,29 +22,7 @@ FPGA Design
 Digital Signal Processing (DSP)
 FFT Algorithm
 Clock Gating Technique
-📂 Project Structure
-├── Verilog_Code/
-│   ├── top.v
-│   ├── top_32.v
-│   ├── UAS.v
-│   ├── mux_2to1.v
-│   └── flipflop_based_clk.v
-│
-├── Simulation/
-│   ├── Waveforms
-│   └── Testbench Files
-│
-├── Reports/
-│   ├── Area Report
-│   ├── Timing Report
-│   └── Power Report
-│
-├── Screenshots/
-│   ├── RTL_Schematic.png
-│   ├── Technology_Schematic.png
-│   └── Simulation_Output.png
-│
-└── README.md
+
 🧠 Architecture Description
 
 The proposed 32-point FFT architecture is developed using:
